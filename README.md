@@ -1,2 +1,2 @@
 # P2P-Communication
-Encrypted Peer to Peer chatting, calling, file sharing Lan service
+A secure peer-to-peer communication--chatting, calling, file sharing--service that could be used with people from local or foreign network. 
